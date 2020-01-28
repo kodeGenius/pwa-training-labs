@@ -25,6 +25,8 @@ function logError(error) {
 }
 
 
+//rehelper
+
 // Fetch JSON ----------
 
 function fetchJSON() {
